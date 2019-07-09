@@ -231,7 +231,7 @@ body {
 }
 .header__button:hover,
 .header__button:focus {
-  color: #f79b86;
+  color: #f79bca;
   -webkit-box-shadow: 0px 0px 10px 1px rgba(33, 34, 64, 0.7);
   -moz-box-shadow: 0px 0px 10px 1px rgba(33, 34, 64, 0.7);
   box-shadow: 0px 0px 10px 1px rgba(33, 34, 64, 0.7);
@@ -317,7 +317,7 @@ body {
 }
 .get-started-button a:hover,
 .get-started-button a:focus {
-  color: #f79b86;
+  color: #f79bca;
   -webkit-box-shadow: 0px 0px 10px 1px rgba(33, 34, 64, 0.7);
   -moz-box-shadow: 0px 0px 10px 1px rgba(33, 34, 64, 0.7);
   box-shadow: 0px 0px 10px 1px rgba(33, 34, 64, 0.7);
@@ -1252,7 +1252,7 @@ body {
 }
 .mobile-menu-button:hover,
 .mobile-menu-button:focus {
-  color: #f79b86;
+  color: #f79bca;
   -webkit-box-shadow: 0px 0px 10px 1px rgba(33, 34, 64, 0.7);
   -moz-box-shadow: 0px 0px 10px 1px rgba(33, 34, 64, 0.7);
   box-shadow: 0px 0px 10px 1px rgba(33, 34, 64, 0.7);
